@@ -1,2 +1,2 @@
 # Ping-Pong
-Classic ping pong using python
+Classic ping pong game using python
